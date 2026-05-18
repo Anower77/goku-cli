@@ -1,0 +1,9 @@
+{
+  "age": 24,
+  "name": "Anower",
+  "skills": [
+    "Go",
+    "Python",
+    "Django"
+  ]
+}
